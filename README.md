@@ -1,2 +1,2 @@
-# CrudMVC-JPA
-Este CRUD utiliza a tecnologia Hibernate e modelo MVC.
+# CRUD-JFRAME
+Este CRUD utiliza as tecnologias JFRAME, JPA, Hibernate e modelo MVC.
